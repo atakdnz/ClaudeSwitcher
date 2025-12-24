@@ -1,0 +1,5 @@
+# Website testing folder
+website/
+
+# macOS
+.DS_Store
