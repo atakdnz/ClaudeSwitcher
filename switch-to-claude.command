@@ -72,7 +72,7 @@ else
 fi
 
 echo -e "${GREEN}✓ Successfully restored official Claude models!${NC}"
-echo -e "${GREEN}  - Haiku tasks → Claude 3.5 Haiku${NC}"
+echo -e "${GREEN}  - Haiku tasks → Claude Haiku 4.5${NC}"
 echo -e "${GREEN}  - Sonnet tasks → Claude Sonnet 4.5${NC}"
 echo -e "${GREEN}  - Opus tasks → Claude Opus 4.5${NC}"
 echo ""
