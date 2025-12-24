@@ -1,6 +1,6 @@
 # ClaudeSwitcher
 
-Switch Claude Code's Haiku model between official Claude 3.5 Haiku and GLM 4.7 (via Z.AI).
+Switch Claude Code's Haiku model between official Claude Haiku 4.5 and GLM 4.7 (via Z.AI).
 
 ## Scripts
 
@@ -16,7 +16,7 @@ Routes Haiku tasks through GLM 4.7 (Z.AI) while keeping Sonnet/Opus on official 
 Restores all models to official Claude endpoints.
 
 **Configuration:**
-- Haiku → Claude 3.5 Haiku
+- Haiku → Claude Haiku 4.5
 - Sonnet → Claude Sonnet 4.5
 - Opus → Claude Opus 4.5
 
